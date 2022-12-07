@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build/static/css/main.28f84681.css",
-    "main.js": "/actor-build/static/js/main.634c0cfa.js",
+    "main.css": "/actor-build/static/css/main.09cfb4d6.css",
+    "main.js": "/actor-build/static/js/main.f1438913.js",
     "static/js/787.92d48939.chunk.js": "/actor-build/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -75,12 +75,12 @@
     "static/media/tick.svg": "/actor-build/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.28f84681.css.map": "/actor-build/static/css/main.28f84681.css.map",
-    "main.634c0cfa.js.map": "/actor-build/static/js/main.634c0cfa.js.map",
+    "main.09cfb4d6.css.map": "/actor-build/static/css/main.09cfb4d6.css.map",
+    "main.f1438913.js.map": "/actor-build/static/js/main.f1438913.js.map",
     "787.92d48939.chunk.js.map": "/actor-build/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28f84681.css",
-    "static/js/main.634c0cfa.js"
+    "static/css/main.09cfb4d6.css",
+    "static/js/main.f1438913.js"
   ]
 }
