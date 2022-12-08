@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build/static/css/main.09cfb4d6.css",
-    "main.js": "/actor-build/static/js/main.f1438913.js",
+    "main.css": "/actor-build/static/css/main.3564b445.css",
+    "main.js": "/actor-build/static/js/main.d04bd953.js",
     "static/js/787.92d48939.chunk.js": "/actor-build/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -40,15 +40,18 @@
     "static/media/info-icon.svg": "/actor-build/static/media/info-icon.09d62a1e616922fd25c9.svg",
     "static/media/photo-icon.svg": "/actor-build/static/media/photo-icon.1f17f56a535f01d399eb.svg",
     "static/media/profile-icon.svg": "/actor-build/static/media/profile-icon.a1f818fd595090d176773d0cceeacc05.svg",
+    "static/media/new-notice-icon.svg": "/actor-build/static/media/new-notice-icon.da4d571a87b4f10c39ef.svg",
     "static/media/YouTube.svg": "/actor-build/static/media/YouTube.2215ebee6416dfb0a89e78e91f0c43f4.svg",
     "static/media/balance-icon.svg": "/actor-build/static/media/balance-icon.bf71c78bd822345e27a0303f77343168.svg",
     "static/media/bell-icon.svg": "/actor-build/static/media/bell-icon.7c3a9e59a6a6ea4c5924.svg",
+    "static/media/chat-icon.svg": "/actor-build/static/media/chat-icon.ed52c251c195747dde3b.svg",
     "static/media/Star.svg": "/actor-build/static/media/Star.b5c731a15e1b82dc8e42.svg",
     "static/media/payment-success-icon.svg": "/actor-build/static/media/payment-success-icon.1781d338b7e2bec66255.svg",
     "static/media/loupe.svg": "/actor-build/static/media/loupe.1950f5b89df46bf16f28.svg",
     "index.html": "/actor-build/index.html",
     "static/media/button-close-popup.svg": "/actor-build/static/media/button-close-popup.67b13442c4c48e31a94a.svg",
     "static/media/close-profile-menu-button.svg": "/actor-build/static/media/close-profile-menu-button.0edc7aab111864515a29.svg",
+    "static/media/guard-icon.svg": "/actor-build/static/media/guard-icon.f802afa760954a25ca27.svg",
     "static/media/SignIn-Icon.svg": "/actor-build/static/media/SignIn-Icon.e70e69d23140ac6df642.svg",
     "static/media/Signin-Icon-Mobile.svg": "/actor-build/static/media/Signin-Icon-Mobile.354af37e45b216fe07d7.svg",
     "static/media/green-tick.svg": "/actor-build/static/media/green-tick.3c8602176d7d8a173357.svg",
@@ -75,12 +78,12 @@
     "static/media/tick.svg": "/actor-build/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.09cfb4d6.css.map": "/actor-build/static/css/main.09cfb4d6.css.map",
-    "main.f1438913.js.map": "/actor-build/static/js/main.f1438913.js.map",
+    "main.3564b445.css.map": "/actor-build/static/css/main.3564b445.css.map",
+    "main.d04bd953.js.map": "/actor-build/static/js/main.d04bd953.js.map",
     "787.92d48939.chunk.js.map": "/actor-build/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09cfb4d6.css",
-    "static/js/main.f1438913.js"
+    "static/css/main.3564b445.css",
+    "static/js/main.d04bd953.js"
   ]
 }
