@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build/static/css/main.3564b445.css",
-    "main.js": "/actor-build/static/js/main.d04bd953.js",
+    "main.css": "/actor-build/static/css/main.bac90f26.css",
+    "main.js": "/actor-build/static/js/main.95b73208.js",
     "static/js/787.92d48939.chunk.js": "/actor-build/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -68,6 +68,7 @@
     "static/media/Record-white.svg": "/actor-build/static/media/Record-white.ca27a0e75892b6b56613.svg",
     "static/media/Bunner-button.svg": "/actor-build/static/media/Bunner-button.7d2f6333ba70f8453e64.svg",
     "static/media/advance-icon.svg": "/actor-build/static/media/advance-icon.6d60253e185450b040b0420697e06498.svg",
+    "static/media/cansel-button-icon.svg": "/actor-build/static/media/cansel-button-icon.f02e447cb9c73ede865a.svg",
     "static/media/input-unchecked.svg": "/actor-build/static/media/input-unchecked.f5c44d7ef533cebf664d.svg",
     "static/media/balance-button-icon.svg": "/actor-build/static/media/balance-button-icon.0ffcb6bdaeff0ca334a3.svg",
     "static/media/balance-button-back.svg": "/actor-build/static/media/balance-button-back.4ee8bac08f23a35264ea.svg",
@@ -78,12 +79,12 @@
     "static/media/tick.svg": "/actor-build/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.3564b445.css.map": "/actor-build/static/css/main.3564b445.css.map",
-    "main.d04bd953.js.map": "/actor-build/static/js/main.d04bd953.js.map",
+    "main.bac90f26.css.map": "/actor-build/static/css/main.bac90f26.css.map",
+    "main.95b73208.js.map": "/actor-build/static/js/main.95b73208.js.map",
     "787.92d48939.chunk.js.map": "/actor-build/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3564b445.css",
-    "static/js/main.d04bd953.js"
+    "static/css/main.bac90f26.css",
+    "static/js/main.95b73208.js"
   ]
 }
