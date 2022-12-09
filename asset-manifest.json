@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build/static/css/main.bac90f26.css",
-    "main.js": "/actor-build/static/js/main.95b73208.js",
+    "main.css": "/actor-build/static/css/main.aacb6944.css",
+    "main.js": "/actor-build/static/js/main.fd2fd711.js",
     "static/js/787.92d48939.chunk.js": "/actor-build/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -29,6 +29,7 @@
     "static/media/filter-button-set.svg": "/actor-build/static/media/filter-button-set.0ef34b3e76f9f41b69b1.svg",
     "static/media/filter-button.svg": "/actor-build/static/media/filter-button.4eaca7c673edf1788afe.svg",
     "static/media/slick.ttf": "/actor-build/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/double-chat-icon.svg": "/actor-build/static/media/double-chat-icon.57747abb0f104be166fb.svg",
     "static/media/Vkontakte.svg": "/actor-build/static/media/Vkontakte.55d589f913d84b192bde1d64c83e7fd1.svg",
     "static/media/VK.svg": "/actor-build/static/media/VK.390668a3288ae14b88e237d069642b56.svg",
     "static/media/slick.woff": "/actor-build/static/media/slick.295183786cd8a1389865.woff",
@@ -47,7 +48,9 @@
     "static/media/chat-icon.svg": "/actor-build/static/media/chat-icon.ed52c251c195747dde3b.svg",
     "static/media/Star.svg": "/actor-build/static/media/Star.b5c731a15e1b82dc8e42.svg",
     "static/media/payment-success-icon.svg": "/actor-build/static/media/payment-success-icon.1781d338b7e2bec66255.svg",
+    "static/media/info-icon-orange.svg": "/actor-build/static/media/info-icon-orange.490ff656237a7732130a.svg",
     "static/media/loupe.svg": "/actor-build/static/media/loupe.1950f5b89df46bf16f28.svg",
+    "static/media/cast-success-icon.svg": "/actor-build/static/media/cast-success-icon.90542e51ac1feb814630.svg",
     "index.html": "/actor-build/index.html",
     "static/media/button-close-popup.svg": "/actor-build/static/media/button-close-popup.67b13442c4c48e31a94a.svg",
     "static/media/close-profile-menu-button.svg": "/actor-build/static/media/close-profile-menu-button.0edc7aab111864515a29.svg",
@@ -79,12 +82,12 @@
     "static/media/tick.svg": "/actor-build/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.bac90f26.css.map": "/actor-build/static/css/main.bac90f26.css.map",
-    "main.95b73208.js.map": "/actor-build/static/js/main.95b73208.js.map",
+    "main.aacb6944.css.map": "/actor-build/static/css/main.aacb6944.css.map",
+    "main.fd2fd711.js.map": "/actor-build/static/js/main.fd2fd711.js.map",
     "787.92d48939.chunk.js.map": "/actor-build/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bac90f26.css",
-    "static/js/main.95b73208.js"
+    "static/css/main.aacb6944.css",
+    "static/js/main.fd2fd711.js"
   ]
 }
