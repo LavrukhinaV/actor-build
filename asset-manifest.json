@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build/static/css/main.f1bea2e7.css",
-    "main.js": "/actor-build/static/js/main.e0e2ab6d.js",
+    "main.css": "/actor-build/static/css/main.cd0a6453.css",
+    "main.js": "/actor-build/static/js/main.ff3e7f1e.js",
     "static/js/787.92d48939.chunk.js": "/actor-build/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -9,14 +9,18 @@
     "static/media/Inter-Light.woff?v=3.19": "/actor-build/static/media/Inter-Light.994e34451cc19ede31d3.woff",
     "static/media/Inter-Black.woff?v=3.19": "/actor-build/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Regular.woff?v=3.19": "/actor-build/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/12213860-R3L8T8D-1000-first-1000x656.jpeg": "/actor-build/static/media/12213860-R3L8T8D-1000-first-1000x656.461f72cbf28f57db1271.jpeg",
+    "static/media/1639608254_18-sportishka-com-p-balerini-sport-krasvivo-foto-18.jpeg": "/actor-build/static/media/1639608254_18-sportishka-com-p-balerini-sport-krasvivo-foto-18.85762eb5639a801c5c2c.jpeg",
     "static/media/Inter-Medium.woff2?v=3.19": "/actor-build/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
     "static/media/Inter-SemiBold.woff2?v=3.19": "/actor-build/static/media/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
     "static/media/Inter-Light.woff2?v=3.19": "/actor-build/static/media/Inter-Light.2d5198822ab091ce4305.woff2",
     "static/media/Inter-Black.woff2?v=3.19": "/actor-build/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2?v=3.19": "/actor-build/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/423126_102074.jpeg": "/actor-build/static/media/423126_102074.82ea485574f858c76c66.jpeg",
     "static/media/4.png": "/actor-build/static/media/4.71b11b14c77a3d84986b.png",
     "static/media/1.png": "/actor-build/static/media/1.ef0c6d951412845ace56.png",
     "static/media/2.png": "/actor-build/static/media/2.b2b2e3c0945de715be8d.png",
+    "static/media/0322677657827.576196ed3f102.jpg": "/actor-build/static/media/0322677657827.576196ed3f102.1c2e508f011e701a408c.jpg",
     "static/media/Advertising.png": "/actor-build/static/media/Advertising.27d8d2725dae267ad3d7.png",
     "static/media/Welcome.png": "/actor-build/static/media/Welcome.e17b2b9afe36da8f62f9.png",
     "static/media/3.png": "/actor-build/static/media/3.89b3c01b46fd5a013f54.png",
@@ -85,12 +89,12 @@
     "static/media/tick.svg": "/actor-build/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.f1bea2e7.css.map": "/actor-build/static/css/main.f1bea2e7.css.map",
-    "main.e0e2ab6d.js.map": "/actor-build/static/js/main.e0e2ab6d.js.map",
+    "main.cd0a6453.css.map": "/actor-build/static/css/main.cd0a6453.css.map",
+    "main.ff3e7f1e.js.map": "/actor-build/static/js/main.ff3e7f1e.js.map",
     "787.92d48939.chunk.js.map": "/actor-build/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1bea2e7.css",
-    "static/js/main.e0e2ab6d.js"
+    "static/css/main.cd0a6453.css",
+    "static/js/main.ff3e7f1e.js"
   ]
 }
