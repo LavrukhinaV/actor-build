@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/actor-build/static/css/main.787db87c.css",
+    "main.css": "/actor-build/static/css/main.18d2b4cd.css",
     "main.js": "/actor-build/static/js/main.08d562bc.js",
     "static/js/787.92d48939.chunk.js": "/actor-build/static/js/787.92d48939.chunk.js",
     "static/media/room-image.png": "/actor-build/static/media/room-image.336c4204d952260db3bf.png",
@@ -125,12 +125,12 @@
     "static/media/tick.svg": "/actor-build/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.787db87c.css.map": "/actor-build/static/css/main.787db87c.css.map",
+    "main.18d2b4cd.css.map": "/actor-build/static/css/main.18d2b4cd.css.map",
     "main.08d562bc.js.map": "/actor-build/static/js/main.08d562bc.js.map",
     "787.92d48939.chunk.js.map": "/actor-build/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.787db87c.css",
+    "static/css/main.18d2b4cd.css",
     "static/js/main.08d562bc.js"
   ]
 }
